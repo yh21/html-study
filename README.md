@@ -1,2 +1,1 @@
-# html-study
-html study
+# frontend
